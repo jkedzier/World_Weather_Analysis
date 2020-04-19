@@ -1,0 +1,60 @@
+City_ID,City,Country,Max Temp,description,Lat,Lng,Hotel Name
+4,Kapaa,US,69.8,overcast clouds,22.08,-159.32,Sheraton Kauai Resort at Coconut Beach
+13,Vila Franca Do Campo,PT,62.6,few clouds,37.72,-25.43,Pestana Bahia Praia
+34,Nichinan,JP,68.0,shower rain,31.6,131.37,Guest House Aki
+42,Moura,PT,64.4,broken clouds,38.14,-7.45,Hotel de Moura
+43,Hilo,US,66.99,overcast clouds,19.73,-155.09,Hilo Hawaiian Hotel
+53,Cape Town,ZA,70.0,few clouds,-33.93,18.42,Southern Sun Waterfront Cape Town
+66,Saldanha,ZA,64.4,clear sky,-33.01,17.94,Blue Bay Lodge
+67,Geraldton,AU,60.8,broken clouds,-28.77,114.6,Broadwater Mariner Resort
+68,Hermanus,ZA,70.0,broken clouds,-34.42,19.23,Misty Waves Boutique Hotel
+70,Komsomolskiy,UZ,64.4,clear sky,40.43,71.72,"Hotel ""Ikathouse"""
+74,Tosya,TR,66.25,broken clouds,41.02,34.04,Hakan Hotel
+100,Vila,PT,62.01,few clouds,42.03,-8.16,Hotel Castrum Villae
+114,Marsa Matruh,EG,64.4,clear sky,31.35,27.25,Beau Site
+119,Mount Isa,AU,64.4,clear sky,-20.73,139.5,ibis Styles Mt Isa Verona
+132,Aksarayskiy,RU,64.4,broken clouds,46.79,48.01,
+140,Ponta Do Sol,PT,69.01,few clouds,32.67,-17.1,Hotel do Campo
+141,Ribeira Grande,PT,62.6,scattered clouds,38.52,-28.7,Quinta da Meia Eira
+164,Korla,CN,62.8,overcast clouds,41.76,86.15,Gulisitan Hotel
+176,San Marcos,US,62.01,overcast clouds,33.14,-117.17,Hampton Inn San Marcos
+179,Melito Di Porto Salvo,IT,66.2,scattered clouds,37.92,15.77,B&B Nereidi
+188,Saint-Denis,FR,68.0,few clouds,48.92,2.33,Appart'City Paris Clichy Mairie - Appart Hôtel
+203,Dunstable,GB,61.0,clear sky,51.89,-0.52,Premier Inn Dunstable / Luton hotel
+218,Marawi,PH,69.85,overcast clouds,8.0,124.29,Derogongan Residence
+235,Shache,CN,61.74,overcast clouds,38.42,77.24,Delong Hotel
+236,Methoni,GR,70.0,clear sky,36.82,21.7,Methoni Beach Hotel
+257,Urumqi,CN,64.4,scattered clouds,43.8,87.6,Hua Ling Grand Hotel Urumqi
+261,Antofagasta,CL,66.2,scattered clouds,-23.65,-70.4,Hotel Terrado Suites Antofagasta
+262,Winsum,NL,61.0,clear sky,53.33,6.52,Eetcafe Beuving
+263,Ansbach,DE,62.6,few clouds,49.3,10.58,Hotel Fantasie
+274,Rawson,AR,62.56,overcast clouds,-43.3,-65.1,Hotel Punta León
+280,Uige,AO,69.8,thunderstorm,-7.61,15.06,Juliao Pereira
+283,Sirjan,IR,65.48,overcast clouds,29.45,55.68,هتل عطرسیب سیرجان
+297,Le Pont-De-Claix,FR,64.0,overcast clouds,45.12,5.71,PoMo Hotel & Restaurant
+307,Sungurlu,TR,67.78,few clouds,40.17,34.37,Sungurlu Ogretmenevi
+313,Peniche,PT,62.01,clear sky,39.36,-9.38,Hotel Star inn Peniche
+321,Praia Da Vitoria,PT,64.4,few clouds,38.73,-27.07,Hotel Branco I
+323,Kahului,US,68.0,clear sky,20.89,-156.47,Maui Seaside Hotel
+334,Kathmandu,NP,60.8,broken clouds,27.72,85.32,Hotel Shanker Kathmandu
+335,Kincardine,GB,60.01,clear sky,56.07,-3.72,Premier Inn Falkirk North hotel
+339,Airai,TL,61.09,scattered clouds,-8.93,125.41,Juvinal Martin
+361,Makakilo City,US,68.0,clear sky,21.35,-158.09,Marriott's Ko Olina Beach Club
+367,Dalgopol,BG,69.01,few clouds,43.05,27.35,
+384,Jiancheng,CN,68.0,light intensity shower rain,30.39,104.55,Jianyang Celebrity City Hotel
+400,Xiashi,CN,61.0,overcast clouds,30.54,120.69,皮都锦江大酒店
+413,Guerrero Negro,MX,61.14,scattered clouds,27.98,-114.06,"Casa Laguna, Bed & Breakfast"
+417,Port Lincoln,AU,64.74,overcast clouds,-34.73,135.87,Port Lincoln Hotel
+431,Ures,MX,70.0,scattered clouds,29.43,-110.4,Hotel HACIENDA San Francisco
+444,Neuquen,AR,69.8,broken clouds,-38.95,-68.06,Hotel del Comahue
+455,Meadow Lake,US,61.0,few clouds,34.8,-106.54,JKL Inc. R.V Park and Storage
+461,Los Llanos De Aridane,ES,69.8,broken clouds,28.66,-17.92,Valle Aridane
+465,Byron Bay,AU,63.0,clear sky,-28.65,153.62,Backpackers Inn on the Beach
+469,Santa Marta De Tormes,ES,64.0,few clouds,40.95,-5.63,Hotel Alameda Palace
+495,Sivas,TR,60.48,clear sky,39.79,37.0,Sivas Sultan Otel
+499,Prochnookopskaya,RU,61.47,broken clouds,45.07,41.12,
+511,Xiantao,CN,60.67,few clouds,30.38,113.4,City Convenient Chain Hotel
+512,Liverpool,GB,66.0,few clouds,53.41,-2.98,"Radisson Blu Hotel, Liverpool"
+529,Eregli,TR,69.53,few clouds,37.51,34.05,Hotel Fuat Bey
+555,Santa Rosalia,MX,67.57,broken clouds,27.32,-112.28,Hotel Las Casitas Santa Rosalia
+563,Lebu,CL,60.04,overcast clouds,-37.62,-73.65,Hostal Las Lilas
